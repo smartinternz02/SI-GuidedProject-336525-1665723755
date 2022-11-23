@@ -1,0 +1,10 @@
+# SI-GuidedProject-336525-1665723755
+Predicting and Analysing urban Water Quality using Machine Learning 
+Batch no:6
+Opted technology:Machine Learning
+CollegeL: VAAGDEVI ENGINEERING COLLEGE
+TEAM MEMBERS:
+     SRIRAMOJU VISHNUVARDHANA CHARY (19UK1A05D5)
+     MADHURI BOMMASANI  (19UK1A0587)
+     SATHWIK NETHANI (19UK1A05A9)
+     NIHARIKA BIKKINENI (19UK1A0594)
